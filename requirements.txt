@@ -1,4 +1,3 @@
 pyserial
 numpy
 matplotlib
-serial.tools.list_ports
